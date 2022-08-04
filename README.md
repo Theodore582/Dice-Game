@@ -2,4 +2,4 @@
 -Simple dice game.
 
 ##How it looks
-![images](images/dicegame).png)
+![images](images/dicegame.png)
